@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jnomikos
-- 💞️ I work at Ascend Engineering as a Software Developer
-- 📫 How to reach me:
+- Hi, I’m @jnomikos
+- I work at Ascend Engineering as a Software Developer
+- How to reach me:
 
 Email- john.nomikos55@gmail.com
 
