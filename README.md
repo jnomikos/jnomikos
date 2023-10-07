@@ -2,7 +2,8 @@
 - I work at Ascend Engineering as a Software Developer
 - How to reach me:
 
-Email- john.nomikos55@gmail.com
+Personal Email- john.nomikos55@gmail.com
+Work Email- john.nomikos@ascendengineer.com
 
 <!---
 jnomikos/jnomikos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
