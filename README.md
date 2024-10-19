@@ -1,5 +1,5 @@
 - Hi, I’m @jnomikos
-- I work at Ascend Engineering as a Software Developer
+- I work at Ascend Engineering as a Software Engineer
 - How to reach me:
 
 Personal Email- john.nomikos55@gmail.com
